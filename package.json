@@ -1,5 +1,5 @@
 {
-  "name": "crayond_component_library",
+  "name": "@vardhmancrayond/crayond_component_library",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/vardhmancrayond"
   },
